@@ -1,4 +1,4 @@
-#Space Ship Arcade 2D Game Presentation
+# Space Ship Arcade 2D Game Presentation
 
 --Game Description This 2D arcade space ship game controls a spacecraft that must destroy enemies and dodge obstacles while accumulating points. The objective is to survive for as long as possible and achieve the highest score. With retro graphics and addictive gameplay, this game is a tribute to the classic arcades of yesteryear.
 
