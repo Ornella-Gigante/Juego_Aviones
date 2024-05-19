@@ -18,7 +18,7 @@ Se utilizó la versión 2022.3.10 de Unity para aprovechar las últimas caracter
 Unity Hub: La herramienta de gestión de proyectos de Unity. Se puede descargar desde la página oficial de Unity.
 Unity Editor 2022.3.10: La versión específica de Unity utilizada para desarrollar este juego. 
 
---Vista previa de su
+--Vista previa 
 
 
 Haz clic en la imagen para reproducir el video:
